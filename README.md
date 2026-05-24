@@ -4,7 +4,7 @@
 
 ---
 
-**Bowen Cai** · Bogerman
+**Alvin Cai** · Bogerman
 
 *I just really like building things. FEA models, agent systems, sometimes both at the same time.*
 
