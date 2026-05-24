@@ -25,14 +25,26 @@
 
 ### What I'm Up To
 
-**AI Infrastructure · Research Assistant** @ GIGA ENERGY — Houston, TX
-&emsp;*Powering next-gen AI data center infrastructure at scale — 6.5 GW company portfolio spanning energy systems, thermal management, and intelligent grid optimization. Building the backbone that keeps the world's largest AI training clusters running.*
+<table>
+<tr>
+<td width="50%">
 
-**MSc Smart Manufacturing** · Nanyang Technological University, Singapore (2027)
-&emsp;*#1 in Asia, #4 globally for Manufacturing Engineering (QS 2025). Coursework spans PLC-based manufacturing control & automation, robotic systems, additive manufacturing (3D printing), ML-driven process optimization, precision engineering, semiconductor manufacturing, and computational methods — the full Industry 4.0 stack from sensor to cloud.*
+🏢 **AI Infrastructure · Research Assistant**
+@ GIGA ENERGY — Houston, TX
 
-**Patent Holder** · Engineering Document AI Workflow
-&emsp;*From raw data ingestion to automated validation — an end-to-end AI pipeline that turns engineering document chaos into structured, machine-readable knowledge. Because someone had to make sense of 200+ specs, drawings, and reports.*
+Powering next-gen AI data center infrastructure at scale — 6.5 GW portfolio across energy systems, thermal management & intelligent grid optimization. The backbone behind the world's largest AI training clusters.
+
+</td>
+<td width="50%">
+
+🎓 **MSc Smart Manufacturing**
+Nanyang Technological University (2027)
+
+*#1 Asia, #4 World* — Manufacturing Engineering (QS 2025). PLC-based control & automation, robotics, additive manufacturing, ML process optimization, precision engineering, semiconductor manufacturing — the full Industry 4.0 stack, sensor to cloud.
+
+</td>
+</tr>
+</table>
 
 ---
 
