@@ -29,7 +29,7 @@
 &emsp;*Powering next-gen AI data center infrastructure at scale — 6.5 GW company portfolio spanning energy systems, thermal management, and intelligent grid optimization. Building the backbone that keeps the world's largest AI training clusters running.*
 
 **MSc Smart Manufacturing** · Nanyang Technological University, Singapore (2027)
-&emsp;*Bridging traditional manufacturing and AI — Manufacturing Automation, Digital Twin modeling, ML-driven process optimization, and structural simulation for Industry 4.0. Research at the intersection of computational mechanics and intelligent production systems.*
+&emsp;*#1 in Asia, #4 globally for Manufacturing Engineering (QS 2025). Coursework spans PLC-based manufacturing control & automation, robotic systems, additive manufacturing (3D printing), ML-driven process optimization, precision engineering, semiconductor manufacturing, and computational methods — the full Industry 4.0 stack from sensor to cloud.*
 
 **Patent Holder** · Engineering Document AI Workflow
 &emsp;*From raw data ingestion to automated validation — an end-to-end AI pipeline that turns engineering document chaos into structured, machine-readable knowledge. Because someone had to make sense of 200+ specs, drawings, and reports.*
