@@ -12,27 +12,6 @@
 
 ---
 
-### What I'm Up To
-
-**AI Infrastructure Team · Research Assistant** @ GIGA ENERGY — Houston, TX
-&emsp;*AI data center energy infrastructure · powering AI infrastructure at scale (6.5 GW company portfolio)*
-
-**MSc Smart Manufacturing** · Nanyang Technological University (2027)
-&emsp;*Manufacturing Automation · Digital Twin · ML for Manufacturing*
-
----
-
-### Stuff I've Built (and Obsessed Over)
-
-- **AI Agent + Engineering Analytics Platform** — compressed structural design iteration from ~1 week to 3 days by automating the analysis pipeline
-- **Python + ANSYS Simulation Agent** — auto-model, load, solve, extract, report. Yes, I automated my own job. No, I don't regret it.
-- **Engineering Document ETL Pipeline + Knowledge Graph** — turned a mountain of PDFs into something machines can actually reason about
-- Hold a patent for an engineering document AI workflow — from raw data ingestion to automated validation. My mom still doesn't know what that means.
-- **BIM/Design Collaboration Data Pipeline** — supported critical facade mock-up deliveries
-- Smart Manufacturing structural analysis across multiple project scales
-
----
-
 ### Tech Stack
 
 <div align="center">
@@ -53,6 +32,16 @@
 ![ETL](https://img.shields.io/badge/ETL_Pipeline-6DB33F?style=flat-square)
 
 </div>
+
+---
+
+### What I'm Up To
+
+**AI Infrastructure Team · Research Assistant** @ GIGA ENERGY — Houston, TX
+&emsp;*AI data center energy infrastructure · powering AI infrastructure at scale (6.5 GW company portfolio)*
+
+**MSc Smart Manufacturing** · Nanyang Technological University (2027)
+&emsp;*Manufacturing Automation · Digital Twin · ML for Manufacturing*
 
 ---
 
