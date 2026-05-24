@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Industrial+4.0+%C3%97+AI+Infrastructure;From+Factory+Floor+to+Data+Center;FEA+by+Day+%C2%B7+Agents+by+Night" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Industrial+4.0+%C3%97+AI+Infrastructure;From+Factory+Floor+to+Data+Center;FEA+by+Day+%C2%B7+Agents+by+Night" alt="Typing SVG" />
 
 ---
 
@@ -113,7 +113,7 @@ I have more side projects than I have hours in a day. Working on it.
 
 <div align="center">
 
-*Structural analysis by day. Agent systems by night. Debugging both at 3 AM because apparently sleep is optional.*
+*Evolve with Artificial Intelligence*
 
 [![Email](https://img.shields.io/badge/Bogerman666@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Bogerman666@gmail.com)
 [![Blog](https://img.shields.io/badge/alvinsland.com-4A90D9?style=flat-square&logo=wordpress&logoColor=white)](https://www.alvinsland.com)
