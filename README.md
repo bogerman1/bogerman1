@@ -8,6 +8,17 @@
 
 *I just really like building things. FEA models, agent systems, sometimes both at the same time.*
 
+<img src="https://skillicons.dev/icons?i=python,pytorch,mysql,opencv,git,github,linux,docker&theme=dark" alt="Tech Stack" />
+
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+![SAP2000](https://img.shields.io/badge/SAP2000-003366?style=flat-square)
+![MIDAS](https://img.shields.io/badge/MIDAS_Gen-1A1A2E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LLM/RAG/Agent-1C3A5F?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Knowledge_Graph-018BFF?style=flat-square&logo=neo4j&logoColor=white)
+![BIM](https://img.shields.io/badge/BIM-3B9C9F?style=flat-square)
+![CAE](https://img.shields.io/badge/CAE_Automation-E8702A?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_Pipeline-6DB33F?style=flat-square)
+
 </div>
 
 ---
@@ -67,29 +78,6 @@ I have more side projects than I have hours in a day. Working on it.
 </td>
 </tr>
 </table>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,mysql,opencv,git,github,linux,docker&theme=dark" alt="Tech Stack" />
-
-</div>
-
-<div align="center">
-
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black)
-![SAP2000](https://img.shields.io/badge/SAP2000-003366?style=flat-square)
-![MIDAS](https://img.shields.io/badge/MIDAS_Gen-1A1A2E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LLM/RAG/Agent-1C3A5F?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Knowledge_Graph-018BFF?style=flat-square&logo=neo4j&logoColor=white)
-![BIM](https://img.shields.io/badge/BIM-3B9C9F?style=flat-square)
-![CAE](https://img.shields.io/badge/CAE_Automation-E8702A?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL_Pipeline-6DB33F?style=flat-square)
-
-</div>
 
 ---
 
