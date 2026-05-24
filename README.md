@@ -26,14 +26,12 @@
 
 ### What I'm Up To
 
-<!-- Test 1: h4 for role title -->
-<h4>AI Infrastructure · Research Assistant <a href="https://gigaenergy.com">@ GIGA ENERGY</a> — Houston, TX</h4>
+<!-- Test 2: strong + br vs h4 permalink issue -->
+<strong>AI Infrastructure · Research Assistant</strong> @ GIGA ENERGY — Houston, TX<br>
+Powering next-gen AI data center infrastructure at scale — <strong>6.5 GW</strong> company portfolio spanning energy systems, thermal management, and intelligent grid optimization. Building the backbone that keeps the world's largest AI training clusters running.
 
-Powering next-gen AI data center infrastructure at scale — **6.5 GW** company portfolio spanning energy systems, thermal management, and intelligent grid optimization. Building the backbone that keeps the world's largest AI training clusters running.
-
-<h4>MSc Smart Manufacturing · Nanyang Technological University, Singapore (2027)</h4>
-
-**#1 in Asia, #4 globally** for Manufacturing Engineering (QS 2026). Coursework spans PLC-based manufacturing control & automation, robotic systems, additive manufacturing, ML-driven process optimization, precision engineering, and semiconductor manufacturing — the full **Industry 4.0 stack from sensor to cloud**.
+<strong>MSc Smart Manufacturing</strong> · Nanyang Technological University, Singapore (2027)<br>
+<strong>#1 in Asia, #4 globally</strong> for Manufacturing Engineering (QS 2026). Coursework spans PLC-based manufacturing control & automation, robotic systems, additive manufacturing, ML-driven process optimization, precision engineering, and semiconductor manufacturing — the full <strong>Industry 4.0 stack from sensor to cloud</strong>.
 
 ---
 
