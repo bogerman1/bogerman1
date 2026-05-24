@@ -1,11 +1,10 @@
-<!-- GitHub Markdown HTML Test -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Industrial+4.0+%C3%97+AI+Infrastructure;From+Factory+Floor+to+Data+Center" alt="Typing SVG" />
 
 *Evolve with Artificial Intelligence*
 
-<h1>Alvin Cai <sup>· Bogerman</sup></h1>
+**Alvin Cai** · Bogerman
 
 *I just really like building things. FEA models, agent systems, sometimes both at the same time.*
 
@@ -26,12 +25,7 @@
 
 ### What I'm Up To
 
-<!-- Test 2: strong + br vs h4 permalink issue -->
-<strong>AI Infrastructure · Research Assistant</strong> @ GIGA ENERGY — Houston, TX<br>
-Powering next-gen AI data center infrastructure at scale — <strong>6.5 GW</strong> company portfolio spanning energy systems, thermal management, and intelligent grid optimization. Building the backbone that keeps the world's largest AI training clusters running.
-
-<strong>MSc Smart Manufacturing</strong> · Nanyang Technological University, Singapore (2027)<br>
-<strong>#1 in Asia, #4 globally</strong> for Manufacturing Engineering (QS 2026). Coursework spans PLC-based manufacturing control & automation, robotic systems, additive manufacturing, ML-driven process optimization, precision engineering, and semiconductor manufacturing — the full <strong>Industry 4.0 stack from sensor to cloud</strong>.
+<img src="https://raw.githubusercontent.com/bogerman1/bogerman1/main/about.svg" width="100%" alt="What I'm Up To" />
 
 ---
 

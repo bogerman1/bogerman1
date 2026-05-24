@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Card 1: GIGA ENERGY -->
+  <rect x="0" y="0" width="780" height="120" rx="6" ry="6" fill="#161b22"/>
+  <rect x="0" y="0" width="4" height="120" rx="2" ry="2" fill="#58A6FF"/>
+
+  <text x="20" y="30" font-family="'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="15" fill="#58A6FF">AI Infrastructure · Research Assistant</text>
+  <text x="340" y="30" font-family="'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#8b949e">@ GIGA ENERGY — Houston, TX</text>
+
+  <text x="20" y="56" font-family="'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#c9d1d9">
+    <tspan x="20" dy="0">Powering next-gen AI data center infrastructure at scale — </tspan>
+    <tspan font-weight="700" fill="#58A6FF">6.5 GW</tspan>
+    <tspan> company portfolio spanning energy systems, thermal</tspan>
+    <tspan x="20" dy="22">management, and intelligent grid optimization. Building the backbone that keeps</tspan>
+    <tspan x="20" dy="22">the world's largest AI training clusters running.</tspan>
+  </text>
+
+  <!-- Card 2: NTU -->
+  <rect x="0" y="140" width="780" height="140" rx="6" ry="6" fill="#161b22"/>
+  <rect x="0" y="140" width="4" height="140" rx="2" ry="2" fill="#58A6FF"/>
+
+  <text x="20" y="170" font-family="'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="15" fill="#58A6FF">MSc Smart Manufacturing</text>
+  <text x="250" y="170" font-family="'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#8b949e">· Nanyang Technological University, Singapore (2027)</text>
+
+  <text x="20" y="196" font-family="'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#c9d1d9">
+    <tspan font-weight="700" fill="#58A6FF">#1 in Asia, #4 globally</tspan>
+    <tspan> for Manufacturing Engineering (QS 2026). Coursework spans</tspan>
+    <tspan x="20" dy="22">PLC-based manufacturing control &amp; automation, robotic systems, additive</tspan>
+    <tspan x="20" dy="22">manufacturing, ML-driven process optimization, precision engineering, and</tspan>
+    <tspan x="20" dy="22">semiconductor manufacturing — the full </tspan>
+    <tspan font-weight="700" fill="#58A6FF">Industry 4.0 stack from sensor to cloud</tspan>
+    <tspan>.</tspan>
+  </text>
+</svg>
