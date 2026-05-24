@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Industrial+4.0+%C3%97+AI+Infrastructure;From+Factory+Floor+to+Data+Center" alt="Typing SVG" />
 
----
+*Evolve with Artificial Intelligence*
 
 **Alvin Cai** · Bogerman
 
@@ -12,36 +12,16 @@
 
 ---
 
-### Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,mysql,opencv,git,github,linux,docker&theme=dark" alt="Tech Stack" />
-
-</div>
-
-<div align="center">
-
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black)
-![SAP2000](https://img.shields.io/badge/SAP2000-003366?style=flat-square)
-![MIDAS](https://img.shields.io/badge/MIDAS_Gen-1A1A2E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LLM/RAG/Agent-1C3A5F?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Knowledge_Graph-018BFF?style=flat-square&logo=neo4j&logoColor=white)
-![BIM](https://img.shields.io/badge/BIM-3B9C9F?style=flat-square)
-![CAE](https://img.shields.io/badge/CAE_Automation-E8702A?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL_Pipeline-6DB33F?style=flat-square)
-
-</div>
-
----
-
 ### What I'm Up To
 
-**AI Infrastructure Team · Research Assistant** @ GIGA ENERGY — Houston, TX
-&emsp;*AI data center energy infrastructure · powering AI infrastructure at scale (6.5 GW company portfolio)*
+**AI Infrastructure · Research Assistant** @ GIGA ENERGY — Houston, TX
+&emsp;*Powering next-gen AI data center infrastructure at scale — 6.5 GW company portfolio spanning energy systems, thermal management, and intelligent grid optimization. Building the backbone that keeps the world's largest AI training clusters running.*
 
-**MSc Smart Manufacturing** · Nanyang Technological University (2027)
-&emsp;*Manufacturing Automation · Digital Twin · ML for Manufacturing*
+**MSc Smart Manufacturing** · Nanyang Technological University, Singapore (2027)
+&emsp;*Bridging traditional manufacturing and AI — Manufacturing Automation, Digital Twin modeling, ML-driven process optimization, and structural simulation for Industry 4.0. Research at the intersection of computational mechanics and intelligent production systems.*
+
+**Patent Holder** · Engineering Document AI Workflow
+&emsp;*From raw data ingestion to automated validation — an end-to-end AI pipeline that turns engineering document chaos into structured, machine-readable knowledge. Because someone had to make sense of 200+ specs, drawings, and reports.*
 
 ---
 
@@ -90,6 +70,29 @@ I have more side projects than I have hours in a day. Working on it.
 
 ---
 
+### Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,mysql,opencv,git,github,linux,docker&theme=dark" alt="Tech Stack" />
+
+</div>
+
+<div align="center">
+
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+![SAP2000](https://img.shields.io/badge/SAP2000-003366?style=flat-square)
+![MIDAS](https://img.shields.io/badge/MIDAS_Gen-1A1A2E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LLM/RAG/Agent-1C3A5F?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Knowledge_Graph-018BFF?style=flat-square&logo=neo4j&logoColor=white)
+![BIM](https://img.shields.io/badge/BIM-3B9C9F?style=flat-square)
+![CAE](https://img.shields.io/badge/CAE_Automation-E8702A?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_Pipeline-6DB33F?style=flat-square)
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -112,8 +115,6 @@ I have more side projects than I have hours in a day. Working on it.
 ---
 
 <div align="center">
-
-*Evolve with Artificial Intelligence*
 
 [![Email](https://img.shields.io/badge/Bogerman666@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Bogerman666@gmail.com)
 [![Blog](https://img.shields.io/badge/alvinsland.com-4A90D9?style=flat-square&logo=wordpress&logoColor=white)](https://www.alvinsland.com)
