@@ -78,7 +78,7 @@ I have more side projects than I have hours in a day. Working on it.
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bogerman1&theme=github_dark" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=bogerman1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=bogerman1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555&card_width=340&card_height=200&disable_animations=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
