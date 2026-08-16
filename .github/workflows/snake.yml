@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Game from GitHub Contribution Graph
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: bogerman1
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#0969DA&color_dots=#EBEDF0,#B6E3FF,#80CCFF,#54AEFF,#0969DA
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#58A6FF&color_dots=#161B22,#0C2D6B,#0D419D,#1158C7,#58A6FF
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: output
           build_dir: dist
