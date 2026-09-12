@@ -4,7 +4,7 @@
 
 *Evolve with Artificial Intelligence*
 
-**Alvin Cai** · Bogerman
+**Alvin Cai** 
 
 *I just really like building things. FEA models, agent systems, sometimes both at the same time.*
 
